@@ -1797,4 +1797,4 @@ This section will be updated with frequently asked questions from end-user devel
 Changes
 =======
 
-- 2018-07-06: Initial draft
+- 2018-07-05: Initial draft
